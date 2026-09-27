@@ -81,3 +81,8 @@ Security Monitoring & Governance
       │  Inspector    | AWS Config│
       │  CloudTrail   | S3 Logs   │
       └──────────────────────────┘
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lavkushverma&show_icons=true&theme=dracula&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" alt="GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushverma&layout=compact&theme=dracula&hide_border=true&title_color=A78BFA&text_color=ffffff" alt="Top Languages" height="180" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavkushverma&theme=dracula&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=A78BFA" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lavkushverma&theme=dracula&column=7&margin-w=15&margin-h=30&no-bg=true" alt="GitHub Trophies" /> </div>
+🐍 Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/lavkushverma/lavkushverma/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </div>
