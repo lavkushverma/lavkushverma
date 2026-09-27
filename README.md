@@ -1,5 +1,5 @@
-```markdown
-# <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=LAVKUSH%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=LAVKUSH%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Specialist;Infrastructure+as+Code+Architect;Kubernetes+%26+Container+Orchestration;Cloud+Security+%26+Governance" alt="Typing SVG" />
