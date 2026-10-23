@@ -1,314 +1,161 @@
-# Lavkush Verma
-
 <div align="center">
 
-### Cloud Engineer | AWS | DevOps | Infrastructure Automation | Cloud Security
+<img src="assets/header.svg" alt="Lavkush Verma — AWS Cloud Engineer" width="100%"/>
 
-Designing, automating, operating, and securing cloud infrastructure with a focus on reliability, observability, and operational excellence.
+### AWS CLOUD ENGINEER · CLOUD SECURITY · DEVOPS
 
-<a href="https://github.com/lavkushverma">GitHub</a> ·
-<a href="mailto:lavkushverma030@gmail.com">Email</a> ·
-<a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
+Building secure, scalable, automated, and reliable cloud infrastructure.
+
+[![GitHub](https://img.shields.io/badge/GitHub-lavkushverma-181717?style=for-the-badge&logo=github)](https://github.com/lavkushverma)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 </div>
 
 ---
 
-## Professional Profile
+## 👨‍💻 About Me
 
-Cloud / DevOps Engineer with hands-on experience in **AWS infrastructure, cloud operations, Terraform, Kubernetes, CI/CD, cloud security, monitoring, and production support**.
+I'm a Cloud / DevOps Engineer focused on AWS infrastructure, cloud operations, automation, and security. I work across infrastructure provisioning, networking, monitoring, security controls, troubleshooting, and operational improvement.
 
-I work across the infrastructure lifecycle: designing cloud environments, provisioning resources through Infrastructure as Code, implementing security controls, troubleshooting production issues, and improving observability and operational reliability.
+- ☁️ AWS infrastructure and multi-account governance
+- 🔐 IAM, KMS, AWS Security Hub, AWS Config, and cloud security
+- 🌐 VPC, ALB/NLB, Route 53, ACM, and AWS WAF
+- ⚙️ Terraform, CI/CD, Docker, Kubernetes, and EKS
+- 📈 CloudWatch, Grafana, Prometheus, and observability
+- 🧰 Production support, troubleshooting, and root-cause analysis
 
-My work is centered on:
+## 🧰 Tech Stack
 
-- AWS infrastructure and networking
-- Infrastructure as Code with Terraform
-- Amazon EKS / ECS and container platforms
-- CI/CD automation
-- IAM, KMS, Organizations and security governance
-- CloudWatch, Grafana, Prometheus and observability
-- Incident management, troubleshooting and RCA
-- Cost awareness and operational optimization
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
----
+**AWS:** EC2 · VPC · S3 · IAM · KMS · CloudWatch · CloudTrail · Route 53 · ALB/NLB · EKS · ECS · ECR · Lambda · Organizations · SCP · Security Hub · GuardDuty · Inspector · AWS Config
 
-## Core Technology Stack
+**DevOps & Observability:** Terraform · Docker · Kubernetes · Jenkins · GitHub · GitLab CI/CD · Ansible · Grafana · Prometheus · Dynatrace
 
-### AWS
-`EC2` `VPC` `S3` `IAM` `KMS` `RDS` `DynamoDB` `Lambda` `CloudWatch` `CloudTrail`
-`Route 53` `ALB` `NLB` `Transit Gateway` `NAT Gateway` `EKS` `ECS` `ECR`
-`EventBridge` `SNS` `Security Hub` `GuardDuty` `Inspector` `AWS Config`
-`Organizations` `SCP` `IAM Identity Center`
+## 🚀 Featured Projects
 
-### DevOps & Automation
-`Terraform` `Docker` `Kubernetes` `Amazon EKS` `Amazon ECS`
-`Jenkins` `GitLab CI/CD` `GitHub` `Ansible`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Monitoring & Observability
-`Amazon CloudWatch` `Grafana` `Prometheus` `Dynatrace`
-`CloudWatch Logs` `CloudWatch Alarms`
+### ☸️ EKS Infrastructure with Terraform
+Reusable AWS infrastructure for EKS, VPC networking, managed node groups, and supporting cloud services.
 
-### Databases & Migration
-`PostgreSQL` `Oracle` `RDS` `DynamoDB`
-`AWS DMS` `Rclone` `Azure Blob Storage`
+**Focus:** AWS · Terraform · EKS
 
----
+[↗ View repository](https://github.com/lavkushverma/EKS-Ready-Infrastructure-on-AWS-with-Terraform)
 
-## Engineering Capabilities
+</td>
+<td width="50%" valign="top">
 
-### AWS Infrastructure & Networking
+### 🏗️ Production-Grade 3-Tier AWS Architecture
+A reference architecture for subnet separation, load balancing, application tiers, and database integration.
 
-- VPC design and subnet segmentation
-- Route tables, NAT Gateway, Internet Gateway and Transit Gateway
-- Security Groups and NACLs
-- Application Load Balancer / Network Load Balancer
-- Route 53 private hosted zones and DNS forwarding
-- Multi-account AWS environment support
-- Private workload architecture and controlled egress
+**Focus:** VPC · ALB/NLB · RDS
 
-### Cloud Security
+[↗ View repository](https://github.com/lavkushverma/Production-Grade-3-Tier-AWS-Application-Architecture)
 
-- IAM role and policy design
-- Least-privilege access
-- AWS Organizations and SCP governance
-- KMS key policies and encryption
-- Security Hub CSPM
-- GuardDuty threat detection
-- Inspector vulnerability management
-- AWS Config compliance controls
-- CloudTrail auditing
-- Security findings triage and remediation workflows
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Kubernetes / EKS
+### 📊 Grafana AWS Monitoring
+Monitoring and observability with AWS CloudWatch and Grafana dashboards.
 
-- EKS cluster and managed node group operations
-- Private EKS architecture
-- VPC endpoints and AWS service connectivity
-- Node join and bootstrap troubleshooting
-- IAM integration for workloads
-- Kubernetes networking and application exposure
-- Production support and incident troubleshooting
+**Focus:** CloudWatch · Grafana · Alerts
 
-### Infrastructure as Code
+[↗ View repository](https://github.com/lavkushverma/Grafana-AWS-Monitoring)
 
-I use Terraform to make infrastructure:
+</td>
+<td width="50%" valign="top">
 
-```text
-Reusable
-    ↓
-Version Controlled
-    ↓
-Reviewable
-    ↓
-Repeatable
-    ↓
-Automatable
-```
-
-Typical areas include:
-
-- VPC and networking
-- EC2
-- IAM
-- Security Groups
-- EKS / ECS
-- Load balancing
-- S3
-- Monitoring
-- Scheduled automation
-
-### Observability
-
-I build monitoring solutions using:
-
-```text
-AWS Services
-    ↓
-CloudWatch Metrics / Logs
-    ↓
-Prometheus
-    ↓
-Grafana
-    ↓
-Dashboards / Alerts
-    ↓
-Troubleshooting & Operations
-```
-
----
-
-## Featured Projects
-
-### 1. AWS EKS Infrastructure with Terraform
-
-Production-style EKS infrastructure automation covering VPC networking, managed node groups, private subnets, and supporting AWS services.
-
-**Focus:** Terraform · AWS · EKS · Networking · IAM
-
-[View Repository](https://github.com/lavkushverma/EKS-Ready-Infrastructure-on-AWS-with-Terraform)
-
-### 2. Production-Grade 3-Tier AWS Architecture
-
-Three-tier application architecture demonstrating public/private subnet separation, load balancing, application tiers, and database integration.
-
-**Focus:** AWS · VPC · ALB/NLB · RDS · High Availability
-
-[View Repository](https://github.com/lavkushverma/Production-Grade-3-Tier-AWS-Application-Architecture)
-
-### 3. AWS Grafana Monitoring
-
-Observability solution integrating AWS CloudWatch with Grafana for infrastructure and application monitoring.
-
-**Focus:** Grafana · CloudWatch · Monitoring · Dashboards · Alerting
-
-[View Repository](https://github.com/lavkushverma/Grafana-AWS-Monitoring)
-
-### 4. ECS Service Scheduling with Terraform
-
+### ⏱️ ECS Service Scheduler
 Terraform-based automation for scheduled ECS service operations.
 
-**Focus:** Terraform · ECS · Event-driven automation
+**Focus:** Terraform · ECS · Automation
 
-[View Repository](https://github.com/lavkushverma/ECS-Service-Scheduler-Terraform-based-Automation-Solution)
+[↗ View repository](https://github.com/lavkushverma/ECS-Service-Scheduler-Terraform-based-Automation-Solution)
 
-### 5. EC2 Auto Start / Stop Automation
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Automated EC2 lifecycle management designed around environment scheduling and cost optimization.
+### 💸 EC2 Auto Start/Stop Scheduler
+Automated EC2 lifecycle scheduling to support operational consistency and cost awareness.
 
-**Focus:** Terraform · EC2 · Automation · Cost Optimization
+**Focus:** Terraform · EC2 · Scheduling
 
-[View Repository](https://github.com/lavkushverma/EC2-Auto-Start-Stop-Scheduler-Terraform-based-Automation-Solution)
+[↗ View repository](https://github.com/lavkushverma/EC2-Auto-Start-Stop-Scheduler-Terraform-based-Automation-Solution)
 
-### 6. AWS IAM & Access Management
+</td>
+<td width="50%" valign="top">
 
-Practical IAM implementation covering policies, roles, least privilege, and secure access patterns.
+### 🔑 AWS IAM & Access Management
+Practical examples of IAM roles, policies, access control, and least-privilege patterns.
 
-**Focus:** IAM · Security · Access Governance
+**Focus:** IAM · Security · Governance
 
-[View Repository](https://github.com/lavkushverma/AWS-IAM-Identity-and-Access-Management)
+[↗ View repository](https://github.com/lavkushverma/AWS-IAM-Identity-and-Access-Management)
 
-### 7. Azure Blob to Amazon S3 Migration
+</td>
+</tr>
+</table>
 
-Cloud-to-cloud data migration workflow using Rclone, with attention to transfer reliability and data integrity.
+### ☁️ Azure Blob to Amazon S3 Migration
+Cloud-to-cloud data migration using Rclone.
 
-**Focus:** Azure · AWS S3 · Rclone · Migration
+[↗ View repository](https://github.com/lavkushverma/Rclone-Azure-to-s3-migration)
 
-[View Repository](https://github.com/lavkushverma/Rclone-Azure-to-s3-migration)
-
----
-
-## Professional Experience
-
-### Cloud / DevOps Engineering
-
-Hands-on responsibilities across:
-
-- AWS infrastructure administration
-- Terraform-based infrastructure provisioning
-- Kubernetes / EKS and ECS operations
-- IAM and KMS security controls
-- Cloud monitoring and observability
-- Incident management and RCA
-- Production troubleshooting
-- Network and application connectivity
-- Cost monitoring and optimization
-- Technical documentation and operational SOPs
-
----
-
-## Security & Operations Approach
-
-I follow an operational model based on:
-
-```text
-Security First
-      +
-Infrastructure as Code
-      +
-Least Privilege
-      +
-Observability
-      +
-Automation
-      +
-Operational Excellence
-```
-
-For production issues, my troubleshooting approach is:
-
-```text
-Detect
-  ↓
-Assess Impact
-  ↓
-Isolate
-  ↓
-Validate Configuration
-  ↓
-Remediate
-  ↓
-Verify
-  ↓
-Document RCA
-  ↓
-Prevent Recurrence
-```
-
----
-
-## Current Focus
-
-```yaml
-focus:
-  aws:
-    - Advanced AWS architecture
-    - Multi-account networking
-    - Cloud security and governance
-
-  devops:
-    - Advanced Terraform
-    - CI/CD automation
-    - Kubernetes / EKS
-    - Platform engineering
-
-  observability:
-    - Prometheus
-    - Grafana
-    - CloudWatch
-    - Centralized monitoring
-
-  engineering:
-    - Reliability
-    - Security
-    - Automation
-    - Cost optimization
-```
-
----
-
-## GitHub Projects
-
-| Project | Technologies | Focus |
-|---|---|---|
-| EKS Infrastructure | AWS, Terraform, EKS | Kubernetes Infrastructure |
-| 3-Tier AWS Architecture | AWS, VPC, ALB, RDS | Application Architecture |
-| Grafana AWS Monitoring | Grafana, CloudWatch | Observability |
-| ECS Scheduler | Terraform, ECS | Automation |
-| EC2 Scheduler | Terraform, EC2 | Cost Optimization |
-| IAM Management | IAM, AWS | Cloud Security |
-| Azure → S3 Migration | Rclone, Azure, S3 | Cloud Migration |
-
----
-
-## Contact
+## 📈 GitHub Overview
 
 <div align="center">
 
-**Cloud Engineering · AWS · DevOps · Infrastructure Automation · Cloud Security**
-
-<a href="https://github.com/lavkushverma">GitHub</a> ·
-<a href="mailto:lavkushverma030@gmail.com">Email</a> ·
-<a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lavkushverma&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushverma&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
 
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lavkushverma&theme=dark&hide_border=true&ring=fb7185&fire=ef4444&currStreakLabel=fb7185)](https://github.com/lavkushverma)
+
+</div>
+
+## 🔒 Security & Operations Mindset
+
+```text
+Security First → Least Privilege → Infrastructure as Code
+       → Monitoring → Remediation → Verification → Documentation
+```
+
+I aim to build systems that are secure, observable, maintainable, and repeatable—with clear documentation and practical operational procedures.
+
+## 🎯 Current Focus
+
+- Advanced AWS architecture and multi-account governance
+- Terraform modules and infrastructure automation
+- Kubernetes / EKS operations and platform engineering
+- Cloud security, monitoring, and cost optimization
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/lavkushverma)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavkushverma030@gmail.com)
+
+</div>
+
+<!-- Tip: Add your real LinkedIn profile URL when ready. -->

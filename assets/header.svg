@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Lavkush Verma — AWS Cloud Engineer</title>
+  <desc id="desc">Dark premium banner with red and maroon gradients, cloud infrastructure lines, and the title AWS Cloud Engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090d"/><stop offset="55%" stop-color="#260b18"/><stop offset="100%" stop-color="#570d25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fb7185"/><stop offset="100%" stop-color="#ef4444"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#ef4444" stop-opacity=".35"/><stop offset="100%" stop-color="#ef4444" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <circle cx="1020" cy="90" r="250" fill="url(#glow)"/>
+  <g fill="none" stroke="#fb7185" stroke-opacity=".3" stroke-width="1.5">
+    <path d="M830 68h100v42h74v-25h90"/><path d="M880 156h70v-28h90v48h90"/><path d="M790 228h145v-38h75v28h125"/><path d="M1010 50v36h45v35h75"/>
+  </g>
+  <g fill="#fb7185"><circle cx="830" cy="68" r="4"/><circle cx="1094" cy="85" r="4"/><circle cx="950" cy="156" r="4"/><circle cx="1130" cy="176" r="4"/><circle cx="790" cy="228" r="4"/><circle cx="1135" cy="218" r="4"/><circle cx="1010" cy="50" r="4"/></g>
+  <rect x="72" y="58" width="7" height="218" rx="3.5" fill="url(#accent)"/>
+  <text x="108" y="108" fill="#fda4af" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">CLOUD • SECURITY • AUTOMATION</text>
+  <text x="104" y="174" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="1">LAVKUSH VERMA</text>
+  <text x="108" y="218" fill="#fecdd3" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">AWS CLOUD ENGINEER</text>
+  <text x="108" y="254" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="17">Building secure, scalable and reliable cloud infrastructure</text>
+  <rect x="108" y="286" width="210" height="4" rx="2" fill="url(#accent)"/>
+  <text x="1120" y="308" text-anchor="end" fill="#fda4af" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">AWS / DEVOPS</text>
+</svg>
